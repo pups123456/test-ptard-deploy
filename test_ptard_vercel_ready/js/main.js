@@ -1,0 +1,1 @@
+console.log('PTARD JS Loaded');
