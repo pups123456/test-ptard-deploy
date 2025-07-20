@@ -1,0 +1,5 @@
+
+{
+  "0xExampleWallet1": { "amount": "1000000000000000000", "proof": ["0xabc", "0xdef"] },
+  "0xExampleWallet2": { "amount": "2000000000000000000", "proof": ["0x123", "0x456"] }
+}
